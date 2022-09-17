@@ -139,3 +139,125 @@ DDoS - Distributed Denial-of-Service
 DEP - Data Execution Prevention
 
 DER - Distinguished Encoding Rules
+
+DES - Data Encryption Standard
+
+DHCP - Dynamic Host Configuration Protocol
+
+DHE - Diffie-Hellman Ephemeral
+
+DKIM - Domain Keys Identified Mail
+
+DLL - Dynamic-link Library
+
+DLP - Data Loss Prevention
+
+DMARC - Domain Message Authentication Reporting and Conformance
+
+DNAT - Destination Network Address Transaction
+
+DNS - Domain Name System
+
+DNSSEC - Domain Name System Security Extensions
+
+DoS - Denial-of-Service
+
+DPO - Data Protection Officer 
+
+DRP - Disaster Recovery Plan
+
+DSA - Digital Signature Algorithm 
+
+DSL - Digital Subscriber Line
+
+_________________________________________________________________________
+
+EAP - Extensible Authentication Protocol 
+
+ECB - Electronic Code Book
+
+ECC - Elliptic-curve Cryptography
+
+ECDHE - Elliptic-curve Diffie-Hellman Ephemeral
+
+ECDSA - Elliptic-curve Digital Signature Algorithm 
+
+EDR - Endpoint Detection and Response
+
+EFS - Encrypted File System 
+
+EIP - Extended Instruction Pointer 
+
+EOL - End of Life
+
+EOS - End of Service 
+
+ERP - Enterprise Resource Planning 
+
+ESN - Electronic Serial Number
+
+ESP - Encapsulating Security Payload 
+
+ESSID - Extended Service Set Identifier
+
+_________________________________________________________________________
+
+FACL - File System Access Control List 
+
+FDE - Full Disk Encryption
+
+FIM - File Integrity Monitoring 
+
+FPGA - Field Programmable Gate Array
+
+FRR - False Rejection Rate 
+
+FTP - File Transfer Protocol
+
+FTPS - Secured File Transfer Protocol 
+
+_________________________________________________________________________
+
+GCM - Galois/Counter Mode
+
+GDPR - General Data Protection Regulation 
+
+GPG - GNU Privacy Guard
+
+GPO - Group Policy Object 
+
+GPS - Global Positioning System
+
+GPU - Graphics Processing Unit 
+
+GRE - Generic Routing Encapsulation
+
+_________________________________________________________________________
+
+HA - High Availability 
+
+HDD - Hard Disk Drive
+
+HIDS - Host-based Intrusion Detection System
+
+HIPS - Host-based Intrusion Prevention System
+
+HMAC - Hash-based Message Authentication Code
+
+HOTP - HMAC-based One-time Password
+
+HSM - Hardware Security Module
+
+HSMaaS - Hardware Security Module as a Service
+
+HTML - Hypertext Markup Language
+
+HTTP - Hypertext Transfer Protocol
+
+HTTPS - Hypertext Transfer Protocol Secure
+
+HVAC - Heating, Ventilation, Air Conditioning
+
+_________________________________________________________________________
+
+IaaS - Infrastructure as a Service
