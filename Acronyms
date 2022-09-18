@@ -322,3 +322,201 @@ IV - Initialization Vector
 _________________________________________________________________________
 
 KDC - Key Distribution Center
+
+KEK - Key Encryption Key
+
+_________________________________________________________________________
+
+L2TP - Layer 2 Tunneling Protocol
+
+LAN - Local Area Network
+
+LDAP - Lightweight Directory Access Protocol
+
+LEAP - Lightweight Extensible Authentication Protocol
+
+_________________________________________________________________________
+
+MaaS - Monitoring as a Service
+
+MAC - Media Access Control
+
+MAM - Mobile Application Management
+
+MAN - Metropolitan Area Network
+
+MBR - Master Boot Record
+
+MD5 - Message Digest 5
+
+MDF - Main Distribution Frame
+
+MDF - Mobile Device Management
+
+MFA - Multifactor Authentication
+
+MFD - Multifunction Device
+
+MFP - Multifunction Printer
+
+ML - Machine Learning
+
+MMS - Multimedia Message Service
+
+MOA - Memorandum of Agreement
+
+MOU - Memorandum of Understanding
+
+MPLS - Multiprotocol Label Switching 
+
+MSA - Measurement Systems Analysis
+
+MS-CHAP - Microsoft Challenge-Handshake Authentication Protocol 
+
+MSP - Managed Service Provider
+
+MSSP - Managed Security Service Provider 
+
+MTBF - Mean Time Between Failures
+
+MTTF - Mean Time to Failure
+
+MTTR - Mean Time to Repair
+
+MTU - Maximum Transmission Unit 
+
+_________________________________________________________________________
+
+NAC - Network Access Control
+
+NAS - Network-attached Storage
+
+NAT - Network Address Translation
+
+NDA - Non-disclosure Agreement
+
+NFC - Near-field Communication
+
+NFV - Network Function Virtualization 
+
+NGFW - Next-generation Firewall
+
+NG-SWG - Next-generation Secure Web Gateway 
+
+NIC - Network Interface Card
+
+NIDS - Network-based Intrusion Detection System 
+
+NIPS - Network-based Intrusion Prevention System 
+
+NIST - National Institute of Standards & Technology 
+
+NOC - Network Operations Center
+
+NTFS - New Technology File System 
+
+NTLM - New Technology LAN Manager 
+
+NTP - Network Time Protocol
+
+_________________________________________________________________________
+
+OCSP - Online Certificate Status Protocol 
+
+OID - Object Identifier
+
+OS - Operating System
+
+OSI - Open Systems Interconnection
+
+OSINT - Open-source Intelligence
+
+OSPF - Open Shortest Path First
+
+OT - Operational Technology
+
+OTA - Over-The-Air
+
+OTG - On-The-Go
+
+OVAL - Open Vulnerability and Assessment Language 
+
+OWASP -Open Web Application Security Project
+
+_________________________________________________________________________
+
+P12 - PKCS #12
+
+P2P - Peer-to-Peer
+
+PaaS - Platform as a Service
+
+PAC - Proxy Auto Configuration
+
+PAM - Privileged Access Management
+
+PAM - Pluggable Authentication Modules
+
+PAP - Password Authentication Protocol
+
+PAT - Port Address Translation
+
+PBKDF2 - Password-based Key Derivation Function 2 
+
+PBX - Private Branch Exchange
+
+PCAP - Packet Capture
+
+PCI DSS - Payment Card Industry Data Security Standard 
+
+PDU - Power Distribution Unit
+
+PE - Portable Executable
+
+PEAP - Protected Extensible Authentication Protocol 
+
+PED - Portable Electronic Device
+
+PEM - Privacy Enhanced Mail
+
+PFS - Perfect Forward Secrecy
+
+PGP - Pretty Good Privacy
+
+PHI - Personal Health Information
+
+PII - Personally Identifiable Information 
+
+PIN - Personal Identification Number 
+
+PIV - Personal Identity Verification
+
+PKCS - Public Key Cryptography Standards 
+
+PKI - Public Key Infrastructure
+
+PoC - Proof of Concept
+
+POP - Post Office Protocol
+
+POTS - Plain Old Telephone Service
+
+PPP - Point-to-Point Protocol
+
+PPTP - Point-to-Point Tunneling Protocol
+
+PSK - Preshared Key
+
+PTZ - Pan-Tilt-Zoom
+
+PUP - Potentially Unwanted Program
+
+_________________________________________________________________________
+
+QA - Quality Assurance
+
+QoS - Quality of Service
+
+_________________________________________________________________________
+
+RA - Registration Authority
