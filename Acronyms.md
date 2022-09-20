@@ -479,17 +479,9 @@ PCAP - Packet Capture
 
 PCI DSS - Payment Card Industry Data Security Standard 
 
-PCIX - Peripheral Component Interconnect Extended
-
-PCL - Printer Command Language
-
-PCMCIA - Personal Computer Memory Card International Association
-
 PDU - Power Distribution Unit
 
 PE - Portable Executable
-
-PE - Preinstallation Environment
 
 PEAP - Protected Extensible Authentication Protocol 
 
@@ -498,8 +490,6 @@ PED - Portable Electronic Device
 PEM - Privacy Enhanced Mail
 
 PFS - Perfect Forward Secrecy
-
-PGA - Pin Grid Array
 
 PGP - Pretty Good Privacy or Protection
 
@@ -515,51 +505,21 @@ PKCS - Public Key Cryptography Standards
 
 PKI - Public Key Infrastructure
 
-PnP - Plug and Play
-
 PoC - Proof of Concept
 
-PoE - Power Over Ethernet
-
-POH - Power-on Hours
-
-POP3 - Post Office Protocol 3
-
-PoS - Point of Sale
-
-POST - Power-On-Self Test
+POP - Post Office Protocol 
 
 POTS - Plain Old Telephone Service
-
-PPM - Pages Per Minute
 
 PPP - Point-to-Point Protocol
 
 PPTP - Point-to-Point Tunneling Protocol
 
-PRI - Primary Rate Interface
-
-PROM - Programmable Read-Only Memory
-
-PS/2 - Personal System/2 connector
-
 PSK - Preshared Key
-
-PSTN - Public Switched Telephone Network
-
-PSU - Power Supply Unit
 
 PTZ - Pan-Tilt-Zoom
 
 PUP - Potentially Unwanted Program
-
-PVA - Patterned Vertical Alignment
-
-PVC - Permanent Virtual Circuit
-
-PVC - Polyvinyl Chloride 
-
-PXE - Preboot Execution Environment
 
 _________________________________________________________________________
 
@@ -587,41 +547,21 @@ RC4 - Rivest Cipher version 4
 
 RCS - Rich Communication Services
 
-RDP - Remote Desktop Protocol
-
 RF - Radio Frequency
 
 RFC - Request for Comments
 
 RFID - Radio Frequency Identification
 
-RGB - Red Green Blue
-
-RIP - Routing Information Protocol
-
 RIPEMD - RACE Integrity Primitives Evaluation Message Digest 
 
-RIS - Remote Installation Service
-
-RISC - Reduced Instruction Set Computer
-
-RJ-11 - Registered Jack Function 11
-
-RJ-45 - Registered Jack Function 45
-
-RMA - Returned Materials Authorization 
-
 ROI - Return on Investment
-
-ROM - Read Only Memory
 
 RPO - Recovery Point Objective
 
 RSA - Rivest, Shamir, & Adleman
 
 RTBH - Remotely Triggered Black Hole
-
-RTC - Real-Time Clock
 
 RTO - Recovery Time Objective
 
@@ -637,27 +577,11 @@ SAE - Simultaneous Authentication of Equals
 
 SAML - Security Assertions Markup Language
 
-SAN - Storage Area Network
-
-SAS - Serial Attached SCSI (Small Computer System Interface)
-
-SATA - Serial Advanced Technology Attachment
-
-SC - Subscription Channel
-
 SCADA - Supervisory Control and Data Acquisition 
 
 SCAP - Security Content Automation Protocol
 
 SCEP - Simple Certificate Enrollment Protocol
-
-SCP - Secure Copy Protection
-
-SCSI - Small Computer System Interface
-
-SCSI ID - Small Computer System Interface Identifier
-
-SD Card - Secure Digital Card
 
 SDK - Software Development Kit
 
@@ -671,13 +595,9 @@ SDP - Service Delivery Platform
 
 SDV - Software-defined Visibility SED Self-Encrypting Drives
 
-SEC - Single Edge Connector
+SED - Self-Encrypting Drives
 
 SEH - Structured Exception Handling 
-
-SFC - System File Checker
-
-SFF - Small Form Factor
 
 SFTP - SSH File Transfer Protocol
 
@@ -687,8 +607,6 @@ SIEM - Security Information and Event Management
 
 SIM - Subscriber Identity Module
 
-SIMM - Single In-Line Memory Module
-
 SIP - Session Initiation Protocol
 
 SLA - Service-level Agreement
@@ -696,6 +614,8 @@ SLA - Service-level Agreement
 SLE - Single Loss Expectancy
 
 SLI - Scalable Link Interface or System Level Integration or Scanline Interleave Mode
+
+S.M.A.R.T. - Self-Monitoring, Analysis, and Reporting Technology
 
 SMB - Server Message Block
 
