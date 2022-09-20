@@ -379,9 +379,19 @@ MSSP - Managed Security Service Provider
 
 MTBF - Mean Time Between Failures
 
+MTTA - Mean Time to Acknowledge
+
 MTTF - Mean Time to Failure
 
+MTFF (or MTTFF) - Mean Time to First Failure
+
+MTTR - Mean Time to Recovery
+
 MTTR - Mean Time to Repair
+
+MTTR - Mean Time to Resolve
+
+MTTR - Mean Time to Respond
 
 MTU - Maximum Transmission Unit 
 
@@ -496,6 +506,8 @@ PKCS - Public Key Cryptography Standards
 PKI - Public Key Infrastructure
 
 PoC - Proof of Concept
+
+POH - Power-on Hours
 
 POP - Post Office Protocol
 
