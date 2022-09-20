@@ -587,19 +587,41 @@ RC4 - Rivest Cipher version 4
 
 RCS - Rich Communication Services
 
+RDP - Remote Desktop Protocol
+
+RF - Radio Frequency
+
 RFC - Request for Comments
 
 RFID - Radio Frequency Identification
 
+RGB - Red Green Blue
+
+RIP - Routing Information Protocol
+
 RIPEMD - RACE Integrity Primitives Evaluation Message Digest 
 
+RIS - Remote Installation Service
+
+RISC - Reduced Instruction Set Computer
+
+RJ-11 - Registered Jack Function 11
+
+RJ-45 - Registered Jack Function 45
+
+RMA - Returned Materials Authorization 
+
 ROI - Return on Investment
+
+ROM - Read Only Memory
 
 RPO - Recovery Point Objective
 
 RSA - Rivest, Shamir, & Adleman
 
 RTBH - Remotely Triggered Black Hole
+
+RTC - Real-Time Clock
 
 RTO - Recovery Time Objective
 
@@ -615,11 +637,27 @@ SAE - Simultaneous Authentication of Equals
 
 SAML - Security Assertions Markup Language
 
+SAN - Storage Area Network
+
+SAS - Serial Attached SCSI (Small Computer System Interface)
+
+SATA - Serial Advanced Technology Attachment
+
+SC - Subscription Channel
+
 SCADA - Supervisory Control and Data Acquisition 
 
 SCAP - Security Content Automation Protocol
 
 SCEP - Simple Certificate Enrollment Protocol
+
+SCP - Secure Copy Protection
+
+SCSI - Small Computer System Interface
+
+SCSI ID - Small Computer System Interface Identifier
+
+SD Card - Secure Digital Card
 
 SDK - Software Development Kit
 
@@ -633,7 +671,13 @@ SDP - Service Delivery Platform
 
 SDV - Software-defined Visibility SED Self-Encrypting Drives
 
+SEC - Single Edge Connector
+
 SEH - Structured Exception Handling 
+
+SFC - System File Checker
+
+SFF - Small Form Factor
 
 SFTP - SSH File Transfer Protocol
 
@@ -643,11 +687,15 @@ SIEM - Security Information and Event Management
 
 SIM - Subscriber Identity Module
 
+SIMM - Single In-Line Memory Module
+
 SIP - Session Initiation Protocol
 
 SLA - Service-level Agreement
 
 SLE - Single Loss Expectancy
+
+SLI - Scalable Link Interface or System Level Integration or Scanline Interleave Mode
 
 SMB - Server Message Block
 
