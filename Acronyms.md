@@ -479,9 +479,17 @@ PCAP - Packet Capture
 
 PCI DSS - Payment Card Industry Data Security Standard 
 
+PCIX - Peripheral Component Interconnect Extended
+
+PCL - Printer Command Language
+
+PCMCIA - Personal Computer Memory Card International Association
+
 PDU - Power Distribution Unit
 
 PE - Portable Executable
+
+PE - Preinstallation Environment
 
 PEAP - Protected Extensible Authentication Protocol 
 
@@ -491,7 +499,9 @@ PEM - Privacy Enhanced Mail
 
 PFS - Perfect Forward Secrecy
 
-PGP - Pretty Good Privacy
+PGA - Pin Grid Array
+
+PGP - Pretty Good Privacy or Protection
 
 PHI - Personal Health Information
 
@@ -505,23 +515,51 @@ PKCS - Public Key Cryptography Standards
 
 PKI - Public Key Infrastructure
 
+PnP - Plug and Play
+
 PoC - Proof of Concept
+
+PoE - Power Over Ethernet
 
 POH - Power-on Hours
 
-POP - Post Office Protocol
+POP3 - Post Office Protocol 3
+
+PoS - Point of Sale
+
+POST - Power-On-Self Test
 
 POTS - Plain Old Telephone Service
+
+PPM - Pages Per Minute
 
 PPP - Point-to-Point Protocol
 
 PPTP - Point-to-Point Tunneling Protocol
 
+PRI - Primary Rate Interface
+
+PROM - Programmable Read-Only Memory
+
+PS/2 - Personal System/2 connector
+
 PSK - Preshared Key
+
+PSTN - Public Switched Telephone Network
+
+PSU - Power Supply Unit
 
 PTZ - Pan-Tilt-Zoom
 
 PUP - Potentially Unwanted Program
+
+PVA - Patterned Vertical Alignment
+
+PVC - Permanent Virtual Circuit
+
+PVC - Polyvinyl Chloride 
+
+PXE - Preboot Execution Environment
 
 _________________________________________________________________________
 
